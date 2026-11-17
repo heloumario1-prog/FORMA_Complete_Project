@@ -1,0 +1,3 @@
+FORMA — Everyday Essentials | Week 4 React Product Store
+
+FORMA is a responsive React single-page store built with Vite, JavaScript, reusable components, plain CSS and Lucide icons. It features 16 products, combined category/search/favorites filters, sorting, product quick view and a persistent cart with stock-aware quantity controls and calculated shipping. React useState manages interactions, useEffect persists validated cart/favorites data, and props connect reusable UI components. An accessible frontend-only checkout validates customer fields and displays a demo confirmation without sending data or taking payment. The design uses a warm neutral palette, forest-green accents and responsive layouts. All product data and checkout behavior are educational simulations.
